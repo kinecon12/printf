@@ -6,7 +6,7 @@
 #include <unistd.h>
 
 void getc_ints(int num);
-int putchr(char z);
+int putchers(char n);
 int putt_intts(int integer);
 int  p_printf(const char *format, ...);
 int putts(char *string);
