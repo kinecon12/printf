@@ -13,7 +13,7 @@ int p_printf(const char *format, ...)
 
 	if (!format || (format[0] == '%' && format[1] == '\0'))
 	return (-1);
-	va_start(arg, format);
+	va_start(arggs, format);
 
 	for ( ; format[k] != '\0'; k++)
 	{
