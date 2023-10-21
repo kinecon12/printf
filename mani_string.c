@@ -2,6 +2,7 @@
 
 /**
  * rever_pr - Calls a function to reverse and print a string
+ * Author : kelvin
  * @arg: Argument passed to the function
  * Return: The amount of characters printed
  */
