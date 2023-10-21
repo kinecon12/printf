@@ -10,5 +10,5 @@
  */
 int put_chars(char k)
 {
-        return (write(1, &k, 1));
+	return (write(1, &k, 1));
 }
